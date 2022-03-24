@@ -21,8 +21,10 @@ bio: My research interests include geohazards, photogrammetry, geosensors comput
 # Interests to show in About widget
 interests:
 - Natural hazards monitoring
+- Environmental Monitoring
 - Digital photogrammetry
-- Machine Learning and Deep Learning programming
+- Machine Learning
+- Deep Learning
 - Geosensors computing
 
 # Education to show in About widget
@@ -47,7 +49,7 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:xabierblanch@gmail.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -79,8 +81,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xabier's research focuses on the monitoring of natural hazards such as rockslides or floods using photogrammetric systems and advanced computer vision strategies. He has an active postdoctoral position in the Geosensor Systems Group at TU Dresden and is a collaborator of the natural hazards group RISKNAT at the University of Barcelona.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests range from the development of autonomous photogrammetric systems for deformation and landslide monitoring (explored in his PhD thesis) to the development of Machine Learning or Deep Learning based strategies for image processing to obtain accurate metric values (the focus of his postdoc).
+
+His research is multidisciplinary and combines, on the one hand, his engineering and programming skills and, on the other hand, his extensive knowledge of the natural hazards studied. This combination allows him to develop advanced surveillance systems and AI workflows for accurate geohazards monitoring.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
