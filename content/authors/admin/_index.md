@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Earth Sciences
     institution: Universitat de Barcelona (UB)
-	year: 2022
+    year: 2022
   - course: MSc in Gelogical Hazards
     institution: Universitat de Barcelona (UB)
     year: 2009
