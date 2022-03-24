@@ -6,13 +6,13 @@ title: Xabier Blanch Gorriz
 superuser: true
 
 # Role/position/tagline
-role: PostDoc at Geosensors Systems Group (TU Dresden)
+role: PostDoc at TU Dresden
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Geosensors Systems Group
+- name: - Geosensors Systems Group (Researcher)
   url: https://tu-dresden.de/bu/umwelt/geo/ipf/geosensorsysteme?set_language=en
-- name: RISKNAT UB
+- name: - RISKNAT UB (Collaborator)
   url: http://www.ub.edu/risknat/
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,20 +31,20 @@ interests:
 education:
   courses:
   - course: PhD in Earth Sciences
-    institution: Universitat de Barcelona (UB)
+    institution: University of Barcelona
     year: 2022
-  - course: MSc in Gelogical Hazards
-    institution: Universitat de Barcelona (UB)
-    year: 2009
-  - course: MSc in Gelogical Hazards
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: MSc in Teaching in Secondary Schools (Maths)
+    institution: Universitat Autònoma de Barcelona
+    year: 2017
   - course: BSc in Geological Enginering
-    institution: Universitat Politècnica de Catalunya (uPC)
-    year: 2008
-  - course: BSc in Surveying Enginering
-    institution: Universitat Politècnica de Catalunya (uPC)
-    year: 2008
+    institution: Universitat Politècnica de Catalunya
+    year: 2016
+  - course: MSc in Gelogical Hazards
+    institution: University of Barcelona
+    year: 2015
+  - course: BSc in Techinical Surveying Engineer
+    institution: Universitat Politècnica de Catalunya
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -81,10 +81,10 @@ email: ""
 highlight_name: true
 ---
 
-Xabier's research focuses on the monitoring of natural hazards such as rockslides or floods using photogrammetric systems and advanced computer vision strategies. He has an active postdoctoral position in the Geosensor Systems Group at TU Dresden and is a collaborator of the natural hazards group RISKNAT at the University of Barcelona.
+Xabier's research focuses on the monitoring of natural hazards such as rockslides or floods using photogrammetric systems and advanced computer vision strategies. He has an active postdoctoral position in the Geosensor Systems Group at TU Dresden and is a collaborator of the RISKNAT group at the University of Barcelona.
 
-His research interests range from the development of autonomous photogrammetric systems for deformation and landslide monitoring (explored in his PhD thesis) to the development of Machine Learning or Deep Learning based strategies for image processing to obtain accurate metric values (the focus of his postdoc).
+His research interests range from the development of photogrammetric systems for automated rockfall monitoring (explored in his PhD Thesis) to the development of Deep Learning based strategies for metric image processing (main focus of his PostDoc).
 
-His research is multidisciplinary and combines, on the one hand, his engineering and programming skills and, on the other hand, his extensive knowledge of the natural hazards studied. This combination allows him to develop advanced surveillance systems and AI workflows for accurate geohazards monitoring.
+His research is multidisciplinary and combines, on the one hand, his engineering and programming skills and, on the other hand, his extensive knowledge of the natural hazards analyzed. This combination allows him to develop advanced surveillance systems and AI workflows for accurate geohazards monitoring.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
