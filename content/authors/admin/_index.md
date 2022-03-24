@@ -1,17 +1,19 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xabier Blanch Gorriz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PostDoc at Geosensors Systems Group (TU Dresden)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Geosensors Systems Group (TU Dresden)
+  url: https://tu-dresden.de/bu/umwelt/geo/ipf/geosensorsysteme?set_language=en
+- name: RISKNAT (Universitat de Barcelona)
+  url: http://www.ub.edu/risknat/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
