@@ -1,79 +1,55 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+title: Multi-Epoch and Multi-Imagery (MEMI) Photogrammetric Workflow for
+  Enhanced Change Detection Using Time-Lapse Cameras
+publication_types:
+  - "2"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - admin
+publication_short: ""
+abstract: "Photogrammetric models have become a standard tool for the study of
+  surfaces, structures and natural elements. As an alternative to Light
+  Detection and Ranging (LiDAR), photogrammetry allows 3D point clouds to be
+  obtained at a much lower cost. This paper presents an enhanced workflow for
+  image-based 3D reconstruction of high-resolution models designed to work with
+  fixed time-lapse camera systems, based on multi-epoch multi-images (MEMI) to
+  exploit redundancy. This workflow is part of a fully automatic working setup
+  that includes all steps: from capturing the images to obtaining clusters from
+  change detection. The workflow is capable of obtaining photogrammetric models
+  with a higher quality than the classic Structure from Motion (SfM) time-lapse
+  photogrammetry workflow. The MEMI workflow reduced the error up to a factor of
+  2 when compared to the previous approach, allowing for M3C2 standard deviation
+  of 1.5 cm. In terms of absolute accuracy, using LiDAR data as a reference, our
+  proposed method is 20% more accurate than models obtained with the classic
+  workflow. The automation of the method as well as the improvement of the
+  quality of the 3D reconstructed models enables accurate 4D photogrammetric
+  analysis in near-real time."
+draft: false
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+slides: ""
+url_pdf: ""
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: https://www.mdpi.com/remotesensing/remotesensing-13-01460/article_deploy/html/images/remotesensing-13-01460-ag.png
+summary: This paper presents an enhanced workflow for image-based 3D
+  reconstruction of high-resolution models designed to work with fixed
+  time-lapse camera systems, based on multi-epoch multi-images (MEMI) to exploit
+  redundancy.
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: https://doi.org/10.3390/rs13081460
+publication: In *Remote Sensing*
+projects: []
+date: 2022-03-24T22:30:09.244Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
