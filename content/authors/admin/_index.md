@@ -28,14 +28,20 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Earth Sciences
+    institution: Universitat de Barcelona (UB)
+	year: 2022
+  - course: MSc in Gelogical Hazards
+    institution: Universitat de Barcelona (UB)
+    year: 2009
+  - course: MSc in Gelogical Hazards
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Geological Enginering
+    institution: Universitat Politècnica de Catalunya (uPC)
+    year: 2008
+  - course: BSc in Surveying Enginering
+    institution: Universitat Politècnica de Catalunya (uPC)
     year: 2008
 
 # Social/Academic Networking
