@@ -34,7 +34,15 @@ education:
   - course: MSc in Gelogical Hazards
     institution: Universitat de Barcelona (UB)
     year: 2009
-
+  - course: MSc in Gelogical Hazards
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Geological Enginering
+    institution: Universitat Politècnica de Catalunya (uPC)
+    year: 2008
+  - course: BSc in Surveying Enginering
+    institution: Universitat Politècnica de Catalunya (uPC)
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +61,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/xabierblanch
-- icon: linkedin
+- icon: researchgate
   icon_pack: fab
   link: https://www.linkedin.com/
 
