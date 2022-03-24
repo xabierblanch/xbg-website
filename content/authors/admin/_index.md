@@ -10,6 +10,7 @@ role: PostDoc at TU Dresden
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name:  
 - name: Geosensors Systems Group (PostDoc)
   url: https://tu-dresden.de/bu/umwelt/geo/ipf/geosensorsysteme?set_language=en
 - name: RISKNAT UB (Associate)
@@ -20,12 +21,13 @@ bio: My research interests include geohazards, photogrammetry, geosensors comput
 
 # Interests to show in About widget
 interests:
-- Natural hazards monitoring
+- Natural Hazards
 - Environmental Monitoring
-- Digital photogrammetry
+- Digital Photogrammetry
+- Image Based Monitoring
 - Machine Learning
 - Deep Learning
-- Geosensors computing
+- Geosensors Solutions
 
 # Education to show in About widget
 education:
