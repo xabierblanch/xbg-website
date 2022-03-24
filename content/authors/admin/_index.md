@@ -10,9 +10,9 @@ role: PostDoc at TU Dresden
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Geosensors Systems Group (Researcher)
+- name: Geosensors Systems Group (PostDoc)
   url: https://tu-dresden.de/bu/umwelt/geo/ipf/geosensorsysteme?set_language=en
-- name: RISKNAT UB (Collaborator)
+- name: RISKNAT UB (Associate)
   url: http://www.ub.edu/risknat/
 
 # Short bio (displayed in user profile at end of posts)
