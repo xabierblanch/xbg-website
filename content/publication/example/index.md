@@ -29,10 +29,10 @@ tags: []
 slides: ""
 url_pdf: ""
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
-  filename: https://www.mdpi.com/remotesensing/remotesensing-13-01460/article_deploy/html/images/remotesensing-13-01460-ag.png
+  filename: remotesensing-13-01460-ag.png
 summary: This paper presents an enhanced workflow for image-based 3D
   reconstruction of high-resolution models designed to work with fixed
   time-lapse camera systems, based on multi-epoch multi-images (MEMI) to exploit
