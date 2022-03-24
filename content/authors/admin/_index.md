@@ -50,7 +50,7 @@ education:
     - course: BSc in Techinical Surveying Engineer
       institution: Universitat Politècnica de Catalunya
       year: 2014
-email: ""
+email: xabierblanch@gmail.com
 superuser: true
 highlight_name: true
 ---
