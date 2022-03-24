@@ -16,13 +16,14 @@ organizations:
   url: http://www.ub.edu/risknat/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include geohazards, photogrammetry, geosensors computing, deep learning processes, and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Natural hazards monitoring
+- Digital photogrammetry
+- Machine Learning and Deep Learning programming
+- Geosensors computing
 
 # Education to show in About widget
 education:
