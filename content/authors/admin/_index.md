@@ -28,7 +28,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: "Websites:"
+  - name: "More info:"
   - name: Geosensors Systems Group (PostDoc)
     url: https://tu-dresden.de/bu/umwelt/geo/ipf/geosensorsysteme?set_language=en
   - name: RISKNAT UB (Associate)
