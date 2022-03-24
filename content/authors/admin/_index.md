@@ -6,62 +6,57 @@ title: Xabier Blanch Gorriz
 superuser: true
 
 # Role/position/tagline
-role: PostDoc at GeosensorsSysteme Group (TU Dresden)
+role: PostDoc at Geosensors Systems Group (TU Dresden)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Geosensors Systems Group (TU Dresden)
-  url: https://www.stanford.edu/
+- name: Geosensors Systems Group
+  url: https://tu-dresden.de/bu/umwelt/geo/ipf/geosensorsysteme?set_language=en
+- name: RISKNAT UB
+  url: http://www.ub.edu/risknat/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include geohazards, photogrammetry, geosensors computing, deep learning processes, and programmable matter.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Natural hazards monitoring
-- Digital photogrammetry
-- Machine Learning and Deep Learning programming
-- Geosensors computing
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Earth Sciences
-    institution: Universitat de Barcelona (UB)
-	year: 2022
-  - course: MSc in Gelogical Hazards
-    institution: Universitat de Barcelona (UB)
-    year: 2009
-  - course: MSc in Gelogical Hazards
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Geological Enginering
-    institution: Universitat Politècnica de Catalunya (uPC)
-    year: 2008
-  - course: BSc in Surveying Enginering
-    institution: Universitat Politècnica de Catalunya (uPC)
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:xabierblanch@gmail.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/xabierblanch
+  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=vQnloMQAAAAJ&hl
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/xabierblanch
-- icon: researchgate
+  link: https://github.com/gcushen
+- icon: linkedin
   icon_pack: fab
-  link: https://www.researchgate.net/profile/Xabier-Blanch-Gorriz
+  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -77,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-Xabier is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
